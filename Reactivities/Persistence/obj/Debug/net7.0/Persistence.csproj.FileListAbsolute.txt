@@ -1,0 +1,15 @@
+d:\JS\Udemi\Reactivities\Persistence\bin\Debug\net7.0\Persistence.deps.json
+D:\JS\Udemi\reactivities\Persistence\bin\Debug\net7.0\Persistence.dll
+D:\JS\Udemi\reactivities\Persistence\bin\Debug\net7.0\Persistence.pdb
+D:\JS\Udemi\reactivities\Persistence\bin\Debug\net7.0\Domain.dll
+D:\JS\Udemi\reactivities\Persistence\bin\Debug\net7.0\Domain.pdb
+D:\JS\Udemi\reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+D:\JS\Udemi\reactivities\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\JS\Udemi\reactivities\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+D:\JS\Udemi\reactivities\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+D:\JS\Udemi\reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+d:\JS\Udemi\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+D:\JS\Udemi\reactivities\Persistence\obj\Debug\net7.0\Persistence.dll
+D:\JS\Udemi\reactivities\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+D:\JS\Udemi\reactivities\Persistence\obj\Debug\net7.0\Persistence.pdb
+d:\JS\Udemi\Reactivities\Persistence\obj\Debug\net7.0\ref\Persistence.dll

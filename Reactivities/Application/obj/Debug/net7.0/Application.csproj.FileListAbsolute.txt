@@ -1,0 +1,17 @@
+d:\JS\Udemi\Reactivities\Application\bin\Debug\net7.0\Application.deps.json
+D:\JS\Udemi\reactivities\Application\bin\Debug\net7.0\Application.dll
+D:\JS\Udemi\reactivities\Application\bin\Debug\net7.0\Application.pdb
+D:\JS\Udemi\reactivities\Application\bin\Debug\net7.0\Domain.dll
+D:\JS\Udemi\reactivities\Application\bin\Debug\net7.0\Persistence.dll
+D:\JS\Udemi\reactivities\Application\bin\Debug\net7.0\Domain.pdb
+D:\JS\Udemi\reactivities\Application\bin\Debug\net7.0\Persistence.pdb
+D:\JS\Udemi\reactivities\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\JS\Udemi\reactivities\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\JS\Udemi\reactivities\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\JS\Udemi\reactivities\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\JS\Udemi\reactivities\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+d:\JS\Udemi\Reactivities\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+D:\JS\Udemi\reactivities\Application\obj\Debug\net7.0\Application.dll
+D:\JS\Udemi\reactivities\Application\obj\Debug\net7.0\refint\Application.dll
+D:\JS\Udemi\reactivities\Application\obj\Debug\net7.0\Application.pdb
+d:\JS\Udemi\Reactivities\Application\obj\Debug\net7.0\ref\Application.dll

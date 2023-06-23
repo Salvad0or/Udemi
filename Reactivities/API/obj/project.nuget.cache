@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QSN19jUlFs0/WmT+se6vB7fx7i2HAg22qR3hmhsleZ1BivZVOaad3P4a4Bhs4/yUr/y2EvslN97Z48cI7xzCXQ==",
+  "dgSpecHash": "RuDvGesB9ok6L12mdxmy5p/vN1dpOJTMrgtUyZZbvy1rG+fv6yC80UhX3C6sodDMlqFkFm8L20rAWJAVZZucSg==",
   "success": true,
-  "projectFilePath": "d:\\JS\\Udemi\\Reactivities\\API\\API.csproj",
+  "projectFilePath": "D:\\JS\\Udemi\\Reactivities\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Саша\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "C:\\Users\\Саша\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

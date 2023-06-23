@@ -1,0 +1,12 @@
+D:\JS\Udemi\reactivities\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\JS\Udemi\reactivities\Domain\bin\Debug\net7.0\Domain.dll
+D:\JS\Udemi\reactivities\Domain\bin\Debug\net7.0\Domain.pdb
+D:\JS\Udemi\reactivities\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\JS\Udemi\reactivities\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\JS\Udemi\reactivities\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\JS\Udemi\reactivities\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\JS\Udemi\reactivities\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\JS\Udemi\reactivities\Domain\obj\Debug\net7.0\Domain.dll
+D:\JS\Udemi\reactivities\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\JS\Udemi\reactivities\Domain\obj\Debug\net7.0\Domain.pdb
+D:\JS\Udemi\reactivities\Domain\obj\Debug\net7.0\ref\Domain.dll
