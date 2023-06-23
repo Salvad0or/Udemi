@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\JS\\Udemi\\Reactivities\\api\\API.csproj": {}
+    "d:\\JS\\Udemi\\Reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\JS\\Udemi\\Reactivities\\api\\API.csproj": {
+    "d:\\JS\\Udemi\\Reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\JS\\Udemi\\Reactivities\\api\\API.csproj",
+        "projectUniqueName": "d:\\JS\\Udemi\\Reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\JS\\Udemi\\Reactivities\\api\\API.csproj",
+        "projectPath": "d:\\JS\\Udemi\\Reactivities\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Саша\\.nuget\\packages\\",
-        "outputPath": "D:\\JS\\Udemi\\Reactivities\\api\\obj\\",
+        "outputPath": "d:\\JS\\Udemi\\Reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\JS\\Udemi\\Reactivities\\Application\\Application.csproj": {
-                "projectPath": "D:\\JS\\Udemi\\Reactivities\\Application\\Application.csproj"
+              "d:\\JS\\Udemi\\Reactivities\\Application\\Application.csproj": {
+                "projectPath": "d:\\JS\\Udemi\\Reactivities\\Application\\Application.csproj"
               }
             }
           }
@@ -51,6 +51,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.4, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -80,14 +84,14 @@
         }
       }
     },
-    "D:\\JS\\Udemi\\Reactivities\\Application\\Application.csproj": {
+    "d:\\JS\\Udemi\\Reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\JS\\Udemi\\Reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "d:\\JS\\Udemi\\Reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\JS\\Udemi\\Reactivities\\Application\\Application.csproj",
+        "projectPath": "d:\\JS\\Udemi\\Reactivities\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Саша\\.nuget\\packages\\",
-        "outputPath": "D:\\JS\\Udemi\\Reactivities\\Application\\obj\\",
+        "outputPath": "d:\\JS\\Udemi\\Reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -108,8 +112,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\JS\\Udemi\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\JS\\Udemi\\Reactivities\\Domain\\Domain.csproj"
+              "d:\\JS\\Udemi\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "d:\\JS\\Udemi\\Reactivities\\Domain\\Domain.csproj"
               },
               "d:\\JS\\Udemi\\Reactivities\\Persistence\\Persistence.csproj": {
                 "projectPath": "d:\\JS\\Udemi\\Reactivities\\Persistence\\Persistence.csproj"
@@ -146,14 +150,14 @@
         }
       }
     },
-    "D:\\JS\\Udemi\\Reactivities\\Domain\\Domain.csproj": {
+    "d:\\JS\\Udemi\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\JS\\Udemi\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "d:\\JS\\Udemi\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\JS\\Udemi\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "d:\\JS\\Udemi\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Саша\\.nuget\\packages\\",
-        "outputPath": "D:\\JS\\Udemi\\Reactivities\\Domain\\obj\\",
+        "outputPath": "d:\\JS\\Udemi\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -233,8 +237,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\JS\\Udemi\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\JS\\Udemi\\Reactivities\\Domain\\Domain.csproj"
+              "d:\\JS\\Udemi\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "d:\\JS\\Udemi\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }
@@ -248,6 +252,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

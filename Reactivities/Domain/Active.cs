@@ -1,6 +1,6 @@
 namespace Domain
 {
-    public class Activity
+    public class Active
     {
         public Guid MyProperty { get; set; }
         public string Title { get; set; }
