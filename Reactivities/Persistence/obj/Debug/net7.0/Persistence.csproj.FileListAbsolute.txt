@@ -13,3 +13,5 @@ D:\JS\Udemi\reactivities\Persistence\obj\Debug\net7.0\Persistence.dll
 D:\JS\Udemi\reactivities\Persistence\obj\Debug\net7.0\refint\Persistence.dll
 D:\JS\Udemi\reactivities\Persistence\obj\Debug\net7.0\Persistence.pdb
 d:\JS\Udemi\Reactivities\Persistence\obj\Debug\net7.0\ref\Persistence.dll
+D:\JS\Udemi\Reactivities\persistence\bin\Debug\net7.0\Persistence.runtimeconfig.json
+D:\JS\Udemi\Reactivities\persistence\obj\Debug\net7.0\Persistence.genruntimeconfig.cache

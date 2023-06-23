@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\JS\\Udemi\\Reactivities\\Domain\\Domain.csproj": {}
+    "D:\\JS\\Udemi\\Reactivities\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "d:\\JS\\Udemi\\Reactivities\\Domain\\Domain.csproj": {
+    "D:\\JS\\Udemi\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\JS\\Udemi\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\JS\\Udemi\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "d:\\JS\\Udemi\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "D:\\JS\\Udemi\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Саша\\.nuget\\packages\\",
-        "outputPath": "d:\\JS\\Udemi\\Reactivities\\Domain\\obj\\",
+        "outputPath": "D:\\JS\\Udemi\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

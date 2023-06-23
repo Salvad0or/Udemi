@@ -2,10 +2,11 @@
 using Domain;
 using Microsoft.EntityFrameworkCore;
 
-namespace Application
+namespace Persistence
 {
     public class DataContext : DbContext
     {
+        public DataContext() { }
         public DataContext(DbContextOptions options) : base(options)
         {
         }

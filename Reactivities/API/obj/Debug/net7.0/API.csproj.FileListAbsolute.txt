@@ -37,3 +37,13 @@ D:\JS\Udemi\reactivities\api\obj\Debug\net7.0\refint\API.dll
 D:\JS\Udemi\reactivities\api\obj\Debug\net7.0\API.pdb
 D:\JS\Udemi\reactivities\api\obj\Debug\net7.0\API.genruntimeconfig.cache
 D:\JS\Udemi\reactivities\api\obj\Debug\net7.0\ref\API.dll
+D:\JS\Udemi\Reactivities\api\bin\Debug\net7.0\Humanizer.dll
+D:\JS\Udemi\Reactivities\api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\JS\Udemi\Reactivities\api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\JS\Udemi\Reactivities\api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\JS\Udemi\Reactivities\api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\JS\Udemi\Reactivities\api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\JS\Udemi\Reactivities\api\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\JS\Udemi\Reactivities\api\bin\Debug\net7.0\Npgsql.dll
+D:\JS\Udemi\Reactivities\api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\JS\Udemi\Reactivities\api\bin\Debug\net7.0\System.CodeDom.dll

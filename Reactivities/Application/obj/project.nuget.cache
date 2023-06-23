@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zm78OWUnV7sMgDNzyb86uI0i0vQfQ32Odx9zcT3KyCkeKzpA6eJ74+/ome3y5qJfKlhBN5cCAIHGdbOIjHCZLw==",
+  "dgSpecHash": "c8EMpX3CZ3Laijt88npwCUN8pTuW+GQ6KXXlknsFEDu2YCGCpntWt+dxfgSnQM2QzJh1LyG1I/H3dNXqGPsHSQ==",
   "success": true,
-  "projectFilePath": "d:\\JS\\Udemi\\Reactivities\\Application\\Application.csproj",
+  "projectFilePath": "D:\\JS\\Udemi\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Саша\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.8\\microsoft.entityframeworkcore.7.0.8.nupkg.sha512",
     "C:\\Users\\Саша\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.8\\microsoft.entityframeworkcore.abstractions.7.0.8.nupkg.sha512",
