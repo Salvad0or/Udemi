@@ -1,0 +1,17 @@
+using Domain;
+using Microsoft.AspNetCore.Mvc;
+using Persistence;
+
+
+namespace API.Controllers
+{
+    public class TestApiController : BaseApi
+    {
+        private readonly DataContext _context;
+        public TestApiController(DataContext context)
+        {
+            _context = context;
+        }
+
+    }
+}

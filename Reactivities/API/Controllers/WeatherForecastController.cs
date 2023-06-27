@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Persistence;
 
 namespace API.Controllers;
 
@@ -12,15 +13,18 @@ public class WeatherForecastController : ControllerBase
     };
 
     private readonly ILogger<WeatherForecastController> _logger;
+    private readonly Seed _seed;
 
-    public WeatherForecastController(ILogger<WeatherForecastController> logger)
+    public WeatherForecastController(ILogger<WeatherForecastController> logger, Seed seed)
     {
+        _seed = seed;
         _logger = logger;
     }
 
     [HttpGet(Name = "GetWeatherForecast")]
     public IEnumerable<WeatherForecast> Get()
     {
+        _seed.createActivities();
         return Enumerable.Range(1, 5).Select(index => new WeatherForecast
         {
             Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
