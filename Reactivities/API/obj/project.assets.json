@@ -1498,11 +1498,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\JS\\Udemi\\Reactivities\\api\\API.csproj",
+      "projectUniqueName": "d:\\JS\\Udemi\\Reactivities\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\JS\\Udemi\\Reactivities\\api\\API.csproj",
+      "projectPath": "d:\\JS\\Udemi\\Reactivities\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Саша\\.nuget\\packages\\",
-      "outputPath": "D:\\JS\\Udemi\\Reactivities\\api\\obj\\",
+      "outputPath": "d:\\JS\\Udemi\\Reactivities\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1523,8 +1523,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\JS\\Udemi\\Reactivities\\Application\\Application.csproj": {
-              "projectPath": "D:\\JS\\Udemi\\Reactivities\\Application\\Application.csproj"
+            "d:\\JS\\Udemi\\Reactivities\\Application\\Application.csproj": {
+              "projectPath": "d:\\JS\\Udemi\\Reactivities\\Application\\Application.csproj"
             }
           }
         }

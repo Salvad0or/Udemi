@@ -934,11 +934,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\JS\\Udemi\\Reactivities\\persistence\\Persistence.csproj",
+      "projectUniqueName": "D:\\JS\\Udemi\\reactivities\\persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "D:\\JS\\Udemi\\Reactivities\\persistence\\Persistence.csproj",
+      "projectPath": "D:\\JS\\Udemi\\reactivities\\persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\Саша\\.nuget\\packages\\",
-      "outputPath": "D:\\JS\\Udemi\\Reactivities\\persistence\\obj\\",
+      "outputPath": "D:\\JS\\Udemi\\reactivities\\persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -959,8 +959,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\JS\\Udemi\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\JS\\Udemi\\Reactivities\\Domain\\Domain.csproj"
+            "D:\\JS\\Udemi\\reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\JS\\Udemi\\reactivities\\Domain\\Domain.csproj"
             }
           }
         }

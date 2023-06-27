@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IUzHK9c7H2C34ZR1qZrSUlTf2Gn/WrhC6eZaK3pAZgZtfM8+PZQ7/nkA6edH5cLdUIDPt4aZizn1wjSQacailA==",
+  "dgSpecHash": "wSBD+diCAt8cANKfXN+cxYzEYOgc6apT91BSwjSDP3mtxfK+eaMgSl7Vj+Y97yuP8RjSQvHhilb6C91G3nBhRA==",
   "success": true,
-  "projectFilePath": "D:\\JS\\Udemi\\Reactivities\\API\\API.csproj",
+  "projectFilePath": "d:\\JS\\Udemi\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Саша\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Саша\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
