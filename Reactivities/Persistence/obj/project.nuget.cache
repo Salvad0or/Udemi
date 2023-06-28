@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m0nYo/JMTjau2DcQjgi5+WL0+HeL2W+QjFz09EPDZzlRF6HUjxLM1NEVC53JDDDGN4eZESpDSrTQ2EvsQkR5xg==",
+  "dgSpecHash": "OEcX1yVrDqLHbQddelpdho/SkUR6NwmE6S7u40Iyu06ZwUjqvUQjJMvp08/wOJqe6si4U8gMoqEtUA8Yi7Cz/Q==",
   "success": true,
-  "projectFilePath": "D:\\JS\\Udemi\\reactivities\\Persistence\\Persistence.csproj",
+  "projectFilePath": "D:\\JS\\Udemi\\Reactivities\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Саша\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Саша\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.8\\microsoft.entityframeworkcore.7.0.8.nupkg.sha512",

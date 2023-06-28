@@ -3,25 +3,32 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Persistence;
 
-
 namespace API.Controllers
+
 {
-
-    [ApiController]
-    [Route("test2/[controller]")]
-    public class TestController : ControllerBase
+    public class TestController : BaseApi
     {
-        private DataContext _db;
+        private readonly DataContext _data;
 
-        public TestController(DataContext db)
+        public TestController(DataContext data)
         {
-            _db = db;
+            _data = data;
+
         }
+
 
         [HttpGet]
-        public async Task<List<Active>> Get()
+        public async Task<List<Active>> GetActive()
         {
-            return await _db.Activity.ToListAsync();
+            return await _data.Activity.ToListAsync();
         }
+
+        [HttpGet("{id}")]
+
+        public async Task<Active> GetOneActive(Guid id)
+        {
+            return await _data.Activity.FindAsync(id);
+        }
+
     }
 }
