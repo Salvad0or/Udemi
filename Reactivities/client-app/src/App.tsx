@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from "react";
 import "./App.css";
 import axios from "axios";
+import { List, ListItem, Button } from "semantic-ui-react";
+import "./button.module.css";
 
 function App() {
 	const [activities, getActivities] = useState([]);
@@ -13,11 +15,15 @@ function App() {
 	}, []);
 
 	return (
-		<div className="App">
-			{activities.map((active: any, index) => (
-				<div key={index}>{active.category}</div>
-			))}
-		</div>
+		<>
+			<List>
+				{activities.map((active: any, index) => (
+					<ListItem key={index}>{active.category}</ListItem>
+				))}
+			</List>
+
+			<Button primary>Primary</Button>
+		</>
 	);
 }
 
