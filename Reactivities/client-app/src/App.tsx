@@ -14,8 +14,8 @@ function App() {
 
 	return (
 		<div className="App">
-			{activities.map((active: any) => (
-				<div>{active.name}</div>
+			{activities.map((active: any, index) => (
+				<div key={index}>{active.category}</div>
 			))}
 		</div>
 	);
