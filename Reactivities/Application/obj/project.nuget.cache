@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "6zIXCdkYLhzyCSdeO3HcS7VjMLMEGXxe3+Xh5N84YDW+0IJa2WclkymB77PDLkpZbO+sDCHrDyvf2stQUQDdsA==",
+  "dgSpecHash": "72yyM9sAAx8LqByD0dQ7ki+tPUW59J3ypOqPWgzMahlfA5eogTt5KeVd9s+MfpW2GrFljHmSagDOwrQMoqoOsg==",
   "success": true,
-  "projectFilePath": "D:\\JS\\Udemi\\reactivities\\Application\\Application.csproj",
+  "projectFilePath": "d:\\JS\\Udemi\\reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Саша\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Саша\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Саша\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "C:\\Users\\Саша\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.8\\microsoft.entityframeworkcore.7.0.8.nupkg.sha512",
     "C:\\Users\\Саша\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.8\\microsoft.entityframeworkcore.abstractions.7.0.8.nupkg.sha512",
     "C:\\Users\\Саша\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.8\\microsoft.entityframeworkcore.analyzers.7.0.8.nupkg.sha512",
