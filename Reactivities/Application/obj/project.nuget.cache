@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "72yyM9sAAx8LqByD0dQ7ki+tPUW59J3ypOqPWgzMahlfA5eogTt5KeVd9s+MfpW2GrFljHmSagDOwrQMoqoOsg==",
+  "dgSpecHash": "JGWUrt2WmfDgTAvkAzPiMaTHo1/30OsQpLkWeUuvtOoZehIlMHaMs6vnWNc4/PLk7dJuHEc6gP2fvdcAmFBwRQ==",
   "success": true,
-  "projectFilePath": "d:\\JS\\Udemi\\reactivities\\Application\\Application.csproj",
+  "projectFilePath": "D:\\JS\\Udemi\\reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Саша\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
     "C:\\Users\\Саша\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

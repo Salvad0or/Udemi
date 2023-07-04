@@ -47,3 +47,6 @@ D:\JS\Udemi\Reactivities\api\bin\Debug\net7.0\Mono.TextTemplating.dll
 D:\JS\Udemi\Reactivities\api\bin\Debug\net7.0\Npgsql.dll
 D:\JS\Udemi\Reactivities\api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 D:\JS\Udemi\Reactivities\api\bin\Debug\net7.0\System.CodeDom.dll
+D:\JS\Udemi\reactivities\api\bin\Debug\net7.0\MediatR.dll
+D:\JS\Udemi\reactivities\api\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\JS\Udemi\reactivities\api\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

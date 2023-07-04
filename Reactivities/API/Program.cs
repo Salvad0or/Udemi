@@ -1,5 +1,7 @@
 using Persistence;
 using Microsoft.EntityFrameworkCore;
+using MediatR;
+using Application;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -24,7 +26,7 @@ builder.Services.AddDbContext<DataContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 
-
+builder.Services.AddMediatR(typeof(ReturnList.Handler));
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
