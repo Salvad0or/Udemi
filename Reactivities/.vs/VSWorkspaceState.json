@@ -1,12 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Abs\\ClassLibrary1",
-    "\\Abs\\ClassLibrary1\\ClassLibrary1",
     "\\API",
     "\\Application",
+    "\\Application\\Activities",
     "\\Domain",
     "\\Persistence"
   ],
+  "SelectedNode": "\\Application\\Activities\\Delete.cs",
   "PreviewInSolutionExplorer": false
 }
