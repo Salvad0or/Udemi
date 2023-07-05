@@ -1,10 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Abs\\ClassLibrary1",
+    "\\Abs\\ClassLibrary1\\ClassLibrary1",
     "\\API",
     "\\Application",
+    "\\Domain",
     "\\Persistence"
   ],
-  "SelectedNode": "\\Application\\Details2.cs",
   "PreviewInSolutionExplorer": false
 }

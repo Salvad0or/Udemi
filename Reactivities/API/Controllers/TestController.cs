@@ -1,4 +1,5 @@
 using Application;
+using Application.Activities;
 using Domain;
 using Microsoft.AspNetCore.Mvc;
 
@@ -31,6 +32,12 @@ namespace API.Controllers
         {
             
             return Ok(await Mediator.Send(new Edit.Command{Active = active}));
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteActivity(Guid id)
+        {
+            return Ok(await Mediator.Send(new Delete.Command{Id = id}));
         }
 
     }
